@@ -3,3 +3,5 @@
 (A) set up cron on porygon +porygonServer
 (C) configure router for world access to porygon +porygonServer
 (B) add data disks to samba share +porygonServer
+(B) {2015.09.28} +mass_comm bring in media breifing paper
+(C) {2015.10.02} +brewing go to Jasper's for choc. milk stout ingredients

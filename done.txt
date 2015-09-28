@@ -4,3 +4,5 @@ x 2015-09-23 {2015.09.22} +mass_comm Read ch. 1
 x 2015-09-25 {2015.09.25} +school +film_class Mis-en-scene Short Essay
 x 2015-09-25 {2015.09.25} +school +film_class Mis-en-scene Short Essay
 x 2015-09-25 {2015.09.25} +film_class 8 more responses
+x 2015-09-27 {2015.09.27} +brewing finish bottle sterilization
+x 2015-09-27 {2015.09.27} +brewing bottle marzen
