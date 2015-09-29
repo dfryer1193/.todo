@@ -6,3 +6,4 @@ x 2015-09-25 {2015.09.25} +school +film_class Mis-en-scene Short Essay
 x 2015-09-25 {2015.09.25} +film_class 8 more responses
 x 2015-09-27 {2015.09.27} +brewing finish bottle sterilization
 x 2015-09-27 {2015.09.27} +brewing bottle marzen
+x 2015-09-29 {2015.09.29} +A_LOANS call Sallie Mae about loans
