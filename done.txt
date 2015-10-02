@@ -10,3 +10,7 @@ x 2015-09-29 {2015.09.29} +A_LOANS call Sallie Mae about loans
 x 2015-09-29 {2015.09.28} +mass_comm bring in media breifing paper
 x 2015-09-29 {2015.09.29} +wh_1500 Slave Trade paper
 x 2015-09-30 {2015.09.30} +A_LOANS contact registrar's office about deferrment form
+x 2015-10-01 {2015.09.30} +A_LOANS fill out deferment form
+x 2015-10-01 {2015.09.30} +A_LOANS submit deferrment form to sallie mae
+x 2015-10-01 {2015.09.30} +A_LOANS submit deferment to navient
+x 2015-10-02 {2015.10.02} +brewing go to Jasper's for choc. milk stout ingredients
