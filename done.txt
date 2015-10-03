@@ -14,3 +14,11 @@ x 2015-10-01 {2015.09.30} +A_LOANS fill out deferment form
 x 2015-10-01 {2015.09.30} +A_LOANS submit deferrment form to sallie mae
 x 2015-10-01 {2015.09.30} +A_LOANS submit deferment to navient
 x 2015-10-02 {2015.10.02} +brewing go to Jasper's for choc. milk stout ingredients
+x 2015-10-02 {2015.10.02} +eng_comp_II wiki 4 initial post - 200 words
+x 2015-10-02 {2015.10.02} +eng_comp_II wiki 4 response - 200 words
+x 2015-10-02 {2015.10.02} +psych complete the brain case studies assignment
+x 2015-10-02 {2015.10.02} +psych read chapter on neuroscience
+x 2015-10-02 {2015.10.02} +psych watch videos
+x 2015-10-02 {2015.10.02} +film_video_society Quiz 2 Due
+x 2015-10-02 {2015.10.02} +film_video_society Complete Unit 2 Module
+x 2015-10-02 {2015.10.02} +film_video_society Read Phillips pp. 37-56, Ch. 2)
