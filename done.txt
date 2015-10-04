@@ -22,3 +22,4 @@ x 2015-10-02 {2015.10.02} +psych watch videos
 x 2015-10-02 {2015.10.02} +film_video_society Quiz 2 Due
 x 2015-10-02 {2015.10.02} +film_video_society Complete Unit 2 Module
 x 2015-10-02 {2015.10.02} +film_video_society Read Phillips pp. 37-56, Ch. 2)
+x 2015-10-03 {2015.10.03}  +brewing brew choc. milk stout
