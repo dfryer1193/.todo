@@ -26,3 +26,4 @@ x 2015-10-03 {2015.10.03}  +brewing brew choc. milk stout
 x 2015-10-04 {2015.10.03} +film_video_society Watch Hugo (the movie)
 x 2015-10-04 {2015.10.04} +film_video_society Discussion board initial post
 x 2015-10-04 {2015.10.04} +eng_comp_II Week 4 Quiz
+x 2015-10-06 {2015.10.06} +film_video_society Discussion board initial response
