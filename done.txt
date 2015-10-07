@@ -33,3 +33,4 @@ x 2015-10-06 {2015.10.06} +intro_to_psych watch video about Wernicke's Aphasia
 x 2015-10-06 {2015.10.06} +intro_to_psych Watch/read about lobes of the brain
 x 2015-10-06 {2015.10.06} +intro_to_psych watch video about Broca's Aphasia
 x 2015-10-06 {2015.10.06} +intro_to_psych participate in Neurolaw discussion
+x 2015-10-07 {2015.10.06} +mass_comm Media Briefing
