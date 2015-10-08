@@ -40,3 +40,6 @@ x 2015-10-07 {2015.10.07} +eng_comp_II Read "Sonny's Blues" by James Baldwin (pp
 x 2015-10-07 {2015.10.07} +eng_comp_II wiki 5 initial post (200 words)
 x 2015-10-07 {2015.10.09} +eng_comp_II Quiz #W5
 x 2015-10-08 {2015.10.08} +eng_comp_II wiki 5 response (200 words)
+x 2015-10-08 {2015.10.08} +film_video_society short essay 2 due
+x 2015-10-08 {2015.10.08} +film_video_society Discussion board all responses
+x 2015-10-08 {2015.10.08} +intro_to_psych participate in Neurolaw discussion - response
