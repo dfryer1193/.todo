@@ -45,3 +45,4 @@ x 2015-10-08 {2015.10.08} +film_video_society Discussion board all responses
 x 2015-10-08 {2015.10.08} +intro_to_psych participate in Neurolaw discussion - response
 x 2015-10-08 {2015.10.08} +eng_comp_II Response to Migrant Struggle (400 Words)
 x 2015-10-09 {2015.10.09} +eng_comp_II Short Story Paper
+x 2015-10-14 {2015.10.14} +wh_1500 quiz on material through day9_notes
