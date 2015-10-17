@@ -52,3 +52,5 @@ x 2015-10-15 {2015.10.14} +wh_1500 quiz on material through day9_notes
 x 2015-10-15 {2015.10.15} +COM106 Quiz 3 due
 x 2015-10-16 {2015.10.16} +intro_to_psych Assignment 2 (See Week 4)
 x 2015-10-16 {2015.10.16} +intro_to_psych complete quiz 2
+x 2015-10-16 {2015.10.15} +COM106 watch "The Bourne Ultimatum"
+x 2015-10-16 {2015.10.16} +ENG102 wiki response (200 Words)
