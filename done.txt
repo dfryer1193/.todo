@@ -54,3 +54,4 @@ x 2015-10-16 {2015.10.16} +intro_to_psych Assignment 2 (See Week 4)
 x 2015-10-16 {2015.10.16} +intro_to_psych complete quiz 2
 x 2015-10-16 {2015.10.15} +COM106 watch "The Bourne Ultimatum"
 x 2015-10-16 {2015.10.16} +ENG102 wiki response (200 Words)
+x 2015-10-18 {2015.10.17} +COM106 Discussion board initial post
