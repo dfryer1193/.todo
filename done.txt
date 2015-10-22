@@ -62,3 +62,4 @@ x 2015-10-20 {2015.10.21} +COM106 Discussion board all responses
 x 2015-10-21 {2015.10.21} +ENG102 Wiki #7 response (200 Words)
 x 2015-10-21 {2015.10.21} +COM106 Short essay 3 due
 x 2015-10-21 {2015.10.23} +ENG102 Wiki #7 reply (200 Words)
+x 2015-10-22 {2015.10.21} +ENG102 Finish first they killed my father

@@ -4,7 +4,6 @@
 (E) Solder microcontroller for BeerTempControl +BeerTempControl
 (A) {2015.10.26} +mass_comm exam on Blackboard
 (B) +HubSpot do coding exercise
-(A) {2015.10.21} +ENG102 Finish first they killed my father
 (B) {2015.11.06} +PSY101 Assignment 3
 (A) {2015.10.23} +PSY101 Classical conditioning assignment
 watch "terms and conditions may apply"
