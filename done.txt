@@ -59,3 +59,6 @@ x 2015-10-18 {2015.10.19} +wh_1500 Voltaire assignment (history specifically)
 x 2015-10-18 {2015.10.18} +brewing move choc. milk stout to secondary
 x 2015-10-19 {2015.10.19} +COM106 Discussion board initial response
 x 2015-10-20 {2015.10.21} +COM106 Discussion board all responses
+x 2015-10-21 {2015.10.21} +ENG102 Wiki #7 response (200 Words)
+x 2015-10-21 {2015.10.21} +COM106 Short essay 3 due
+x 2015-10-21 {2015.10.23} +ENG102 Wiki #7 reply (200 Words)
