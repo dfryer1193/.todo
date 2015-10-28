@@ -67,3 +67,4 @@ x 2015-10-23 {2015.10.23} +PSY101 Classical conditioning assignment
 x 2015-10-26 +HubSpot do coding exercise
 x 2015-10-28 {2015.10.28} +ENG102 Wiki discussion (200 words)
 x 2015-10-28 {2015.10.28} +ENG102 Read texts (poems)
+x 2015-10-28 {2015.10.28} +COM106 Quiz 4 due
