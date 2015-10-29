@@ -12,6 +12,5 @@ watch "terms and conditions may apply"
 (D) {2015.11.03} +COM106 short essay 4
 (A) {2015.10.30} +ENG102 Wiki response (200 words)
 (A) {2015.10.30} +ENG102 video response (400 words)
-(A) {2015.10.30} +ENG102 rhythms in poetry quiz
 (A) {2015.11.01} +ENG102 quiz 8
 (A) {2015.10.30} +PSY101 designing a demotivated workplace
