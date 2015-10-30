@@ -71,3 +71,6 @@ x 2015-10-28 {2015.10.28} +COM106 Quiz 4 due
 x 2015-10-29 {2015.10.30} +ENG102 rhythms in poetry quiz
 x 2015-10-30 {2015.10.28} +COM106 watch Gravity
 x 2015-10-30 {2015.10.30} +COM106 discussion board initial post
+x 2015-10-30 {2015.10.30} +ENG102 Wiki response (200 words)
+x 2015-10-30 {2015.10.30} +ENG102 video response (400 words)
+x 2015-10-30 {2015.10.30} +PSY101 designing a demotivated workplace
