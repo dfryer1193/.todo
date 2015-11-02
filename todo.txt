@@ -2,8 +2,8 @@
 (C) configure router for world access to porygon +porygonServer
 (B) add data disks to samba share +porygonServer
 (E) Solder microcontroller for BeerTempControl +BeerTempControl
-(B) {2015.11.04} +mass_comm exam on Blackboard
-(B) {2015.11.06} +PSY101 Assignment 3
+(A) {2015.11.04} +mass_comm exam on Blackboard
+(A) {2015.11.06} +PSY101 Assignment 3
 watch "terms and conditions may apply"
-(B) {2015.11.03} +COM106 discussion board all responses
-(B) {2015.11.03} +COM106 short essay 4
+(A) {2015.11.03} +COM106 discussion board all responses
+(A) {2015.11.03} +COM106 short essay 4
