@@ -76,3 +76,4 @@ x 2015-10-30 {2015.10.30} +ENG102 video response (400 words)
 x 2015-10-30 {2015.10.30} +PSY101 designing a demotivated workplace
 x 2015-11-01 {2015.11.01} +ENG102 quiz 8
 x 2015-11-01 {2015.11.01} +COM106 discussion board initial response
+x 2015-11-02 {2015.11.06} +PSY101 Assignment 3
