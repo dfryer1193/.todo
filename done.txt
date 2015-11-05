@@ -80,3 +80,5 @@ x 2015-11-02 {2015.11.06} +PSY101 Assignment 3
 x 2015-11-03 {2015.11.03} +COM106 short essay 4
 x 2015-11-03 {2015.11.03} +COM106 discussion board all responses
 x 2015-11-04 {2015.11.04} +ENG102 intial discussion post (200 words)
+x 2015-11-04 {2015.11.03} +ENG102 read poems
+x 2015-11-04 {2015.11.04} +mass_comm exam on Blackboard
