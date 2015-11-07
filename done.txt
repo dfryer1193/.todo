@@ -82,3 +82,6 @@ x 2015-11-03 {2015.11.03} +COM106 discussion board all responses
 x 2015-11-04 {2015.11.04} +ENG102 intial discussion post (200 words)
 x 2015-11-04 {2015.11.03} +ENG102 read poems
 x 2015-11-04 {2015.11.04} +mass_comm exam on Blackboard
+x 2015-11-06 {2015.11.06} +ENG102 Poetry Paper (2-3 Pages)
+x 2015-11-06 {2015.11.06} +ENG102 discussion response (200 words)
+x 2015-11-06 {2015.11.06} +PSY101 Quiz 3
