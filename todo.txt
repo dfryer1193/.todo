@@ -5,8 +5,6 @@
 watch "terms and conditions may apply"
 (A) {2015.11.09} +mass_comm Term Paper part 1
 (A) {2015.11.09} +HST131 DO THE DAMN ESSAY
-(A) {2015.11.10} +COM106 Watch The Matrix
-(A) {2015.11.12} +COM106 discussion initial post
 (C) {2015.11.14} +COM106 discussion initial response
 (D) {2015.11.16} +COM106 discussion all responses
 (D) {2015.11.16} +COM106 short essay #5

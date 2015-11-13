@@ -89,3 +89,5 @@ x 2015-11-10 {2015.11.10} +COM106 Unit 5 Module
 x 2015-11-10 {2015.11.10} +COM106 Quiz #5
 x 2015-11-11 {2015.11.11} +ENG102 Wiki #10 initial post (200 words)
 x 2015-11-11 {2015.11.11} +PSY101 discussion board post
+x 2015-11-12 {2015.11.10} +COM106 Watch The Matrix
+x 2015-11-12 {2015.11.12} +COM106 discussion initial post
