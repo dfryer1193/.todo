@@ -6,9 +6,6 @@ watch "terms and conditions may apply"
 (A) {2015.11.09} +mass_comm Term Paper part 1
 (A) {2015.11.09} +HST131 DO THE DAMN ESSAY
 (B) {2015.11.23} +mass_comm Term Paper part 2
-(A) {2015.11.18} +ENG102 read the rest of the play
-(A) {2015.11.18} +ENG102 Watch video clips
-(A) {2015.11.18} +ENG102 Wiki discussion initial post (200 words)
 (B) {2015.11.20} +ENG102 Wiki discussion reply (200 words)
 (C) {2015.11.22} +ENG102 video quiz
 (C) {2015.11.22} +ENG102 #W11 quiz
