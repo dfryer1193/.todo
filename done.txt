@@ -100,3 +100,4 @@ x 2015-11-17 {2015.11.16} +COM106 short essay #5
 x 2015-11-18 {2015.11.18} +ENG102 read the rest of the play
 x 2015-11-18 {2015.11.18} +ENG102 Watch video clips
 x 2015-11-18 {2015.11.18} +ENG102 Wiki discussion initial post (200 words)
+x 2015-11-21 {2015.11.20} +ENG102 Wiki discussion reply (200 words)
