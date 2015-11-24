@@ -103,3 +103,5 @@ x 2015-11-18 {2015.11.18} +ENG102 Wiki discussion initial post (200 words)
 x 2015-11-21 {2015.11.20} +ENG102 Wiki discussion reply (200 words)
 x 2015-11-22 {2015.11.22} +ENG102 #W11 quiz
 x 2015-11-22 {2015.11.22} +ENG102 video quiz
+x 2015-11-23 {2015.11.23} +COM106 Quiz #6
+x 2015-11-23 {2015.11.23} +COM106 Unit 6 Module
