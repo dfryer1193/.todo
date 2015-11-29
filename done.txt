@@ -110,3 +110,5 @@ x 2015-11-25 {2015.11.25} +COM106 Discussion initial post
 x 2015-11-25 {2015.11.25} +ENG102 Wiki discussion post (200 words)
 x 2015-11-27 {2015.11.26} +ENG102 Wiki discussion reply (200 words)
 x 2015-11-27 {2015.11.27} +COM106 Discussion initial reply
+x 2015-11-28 add data disks to samba share +porygonServer
+x 2015-11-28 set up cron on porygon +porygonServer
