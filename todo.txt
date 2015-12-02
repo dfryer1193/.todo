@@ -14,3 +14,4 @@ watch "terms and conditions may apply"
 (C) {2015.12.09} +COM106 Discussion board initial reply
 (D) {2015.12.11} +COM106 Discussion board all replies
 (D) {2015.12.11} +COM106 Short Essay #7
+(A) +HST131 Quiz corrections
