@@ -114,3 +114,5 @@ x 2015-11-28 add data disks to samba share +porygonServer
 x 2015-11-28 set up cron on porygon +porygonServer
 x 2015-11-29 {2015.11.29} +COM106 Discussion all replies
 x 2015-11-29 {2015.11.29} +COM106 Short Essay #6
+x 2015-12-03 {2015.12.02} +ENG102 Wiki #13 Discusson initial post (200 words)
+x 2015-12-03 {2015.12.02} +ENG102 Read "The Ground on Which I Stand" by Sandra Shannon
