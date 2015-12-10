@@ -1,11 +1,10 @@
 (C) configure router for world access to porygon +porygonServer
 (E) Solder microcontroller for BeerTempControl +BeerTempControl
 watch "terms and conditions may apply"
-(B) {2015.12.23} +COM106 Final Film analysis paper due
-(C) {2015.12.11} +PSY101 Assignment 4: Annotated Bibliography due
+(A) {2015.12.23} +COM106 Final Film analysis paper due
 (A) {2015.12.14} +HST131 Propaganda Paper (6-8 Pages)
 (A) {2015.12.14} +mass_comm Term Paper due
-(C) {2015.12.09} +COM106 Discussion board initial reply
-(D) {2015.12.11} +COM106 Discussion board all replies
-(D) {2015.12.11} +COM106 Short Essay #7
+(A) {2015.12.11} +COM106 Discussion board all replies
+(A) {2015.12.11} +COM106 Short Essay #7
 (A) +HST131 Quiz corrections
+(A) {2015.12.11} +ENG102 Wiki #14 Discussion initial reply. (200 words)
