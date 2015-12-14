@@ -123,3 +123,5 @@ x 2015-12-07 {2015.12.07} +COM106 Discussion board initial post
 x 2015-12-09 {2015.12.09} +ENG102 Wiki #14 Discussion initial post. (200 words)
 x 2015-12-09 {2015.12.09} +COM106 Discussion board initial reply
 x 2015-12-10 {2015.12.11} +PSY101 Assignment 4: Annotated Bibliography due
+x 2015-12-14 {2015.12.14} +HST131 Propaganda Paper (6-8 Pages)
+x 2015-12-14 {2015.12.14} +mass_comm Term Paper due (6-8 Pages)
