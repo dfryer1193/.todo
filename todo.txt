@@ -9,4 +9,4 @@ watch "terms and conditions may apply"
 (A) {2015.12.17} +PSY101 Therapy discussion reply
 {2015.12.23} +COMXXX Final Exam
 (A) {2015.12.21} +COMXXX 10:30-12:30 Rm. 213 Final Exam
-{2015.12.21} +HST131 13:00-15:00 Final Exam
+(A) {2015.12.21} +HST131 13:00-15:00 Final Exam
