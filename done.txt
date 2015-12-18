@@ -126,3 +126,6 @@ x 2015-12-10 {2015.12.11} +PSY101 Assignment 4: Annotated Bibliography due
 x 2015-12-14 {2015.12.14} +HST131 Propaganda Paper (6-8 Pages)
 x 2015-12-14 {2015.12.14} +mass_comm Term Paper due (6-8 Pages)
 x 2015-12-16 {2015.12.16} +PSY101 Therapy discussion initial post
+x 2015-12-17 {2015.12.17} +ENG102 Course evaluation
+x 2015-12-17 {2015.12.17} +ENG102 Final reflection essay
+x 2015-12-17 {2015.12.17} +PSY101 Therapy discussion reply
