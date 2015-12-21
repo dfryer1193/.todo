@@ -1,6 +1,10 @@
 (C) configure router for world access to porygon +porygonServer
 (E) Solder microcontroller for BeerTempControl +BeerTempControl
 watch "terms and conditions may apply"
+<<<<<<< HEAD
 (A) {2015.12.21} +COMXXX 10:30-12:30 Rm. 213 Final Exam
+=======
+(A) {2015.12.21} +HST131 13:00-15:00 Final Exam
+>>>>>>> origin/master
 (A) {2015.12.22} +PSY101 Final due
 rewatch GoT s1-5
