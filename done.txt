@@ -134,3 +134,4 @@ x 2015-12-21 {2015.12.21} +HST131 13:00-15:00 Final Exam
 x 2015-12-21 {2015.12.21} +COMXXX 10:30-12:30 Rm. 213 Final Exam
 x 2015-12-22 {2015.12.22} +PSY101 Final due
 x 2015-12-22 {2015.12.21} +HST131 13:00-15:00 Final Exam
+x 2015-12-23 configure router for world access to porygon +porygonServer

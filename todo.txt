@@ -1,4 +1,3 @@
-(C) configure router for world access to porygon +porygonServer
-(E) Solder microcontroller for BeerTempControl +BeerTempControl
-watch "terms and conditions may apply"
-rewatch GoT s1-5
+(A) Solder microcontroller for BeerTempControl +BeerTempControl
++MEDIA watch "terms and conditions may apply"
++MEDIA rewatch GoT s1-5
