@@ -136,3 +136,4 @@ x 2015-12-22 {2015.12.22} +PSY101 Final due
 x 2015-12-22 {2015.12.21} +HST131 13:00-15:00 Final Exam
 x 2015-12-23 configure router for world access to porygon +porygonServer
 x 2016-01-02 {2015.12.31} +tea email davidstea CS about perfect tea ball
+x 2016-02-12 +linux add Ultra Flat theme to newly installed laptop
