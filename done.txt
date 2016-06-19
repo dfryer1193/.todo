@@ -141,3 +141,4 @@ x 2016-04-19 +work +linux look into https://github.com/tmux-plugins/tmux-yank
 x 2016-04-19 +MEDIA rewatch GoT s1-5
 x 2016-04-19 +MEDIA watch "terms and conditions may apply"
 x 2016-05-19 {2016.05.18} check on lin06 +work +lab
+x 2016-06-19 switch to xf86-input-libinput
