@@ -1,1 +1,3 @@
 (A) Solder microcontroller for BeerTempControl +BeerTempControl
+finish up new install
+look into VFIO and OVMF
