@@ -145,3 +145,5 @@ x 2016-06-19 switch to xf86-input-libinput
 x 2016-07-23 finish up new install
 x 2016-07-23 Reboot pending
 x 2016-07-23 look into VFIO and OVMF
+x 2016-09-05 get Fury
+x 2016-09-05 Watch Phantasm

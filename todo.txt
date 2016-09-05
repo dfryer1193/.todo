@@ -1,3 +1,1 @@
 (A) Solder microcontroller for BeerTempControl +BeerTempControl
-(A) Watch Phantasm
-(A) get Fury
