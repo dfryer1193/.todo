@@ -1,2 +1,3 @@
 (A) Solder microcontroller for BeerTempControl +BeerTempControl
 (D) +misc fix /home/dfryer/.bin/gitstatus
+(A) +Work Fix snortctl to work without consul
