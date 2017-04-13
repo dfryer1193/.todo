@@ -148,3 +148,4 @@ x 2016-07-23 look into VFIO and OVMF
 x 2016-09-05 get Fury
 x 2016-09-05 Watch Phantasm
 x 2016-12-22 +Work Fix snortctl to work without consul
+x 2017-04-13 +misc fix /home/dfryer/.bin/gitstatus
